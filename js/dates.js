@@ -50,5 +50,9 @@
 //}
 
 //STEP 4
+//var today, days;
+//days = [ "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" ];
+//today = new Date().getDate();
+//window.console.log("Today is " + days[today] + ". Yesterday was " + days[(today + 6) % 7] + ".");
 
 //STEP 5
