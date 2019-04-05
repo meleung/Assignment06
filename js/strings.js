@@ -59,3 +59,7 @@
 //window.alert(text.trim().toLowerCase());
 
 //STEP 10
+//var text = "the quick brown fox jumps over the lazy dog";
+//window.alert(text[0].toUpperCase() + text.substr(1));
+
+
