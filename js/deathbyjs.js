@@ -43,5 +43,27 @@
 //window.console.log("You entered: " + input + "\nResult: " + output);
 
 //STEP 4
+//function randomString(size) {
+//    "use strict";
+//    var result, i, charSet;
+//    charSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890";
+//    result = [];
+//    for (i = 0; i < size; i += 1) {
+//        result[i] = charSet.charAt(Math.floor(Math.random() * charSet.length));
+//    }
+//    return result.join("");
+//}
+//
+//var input, output;
+//
+//input = window.prompt("Input an ID size");
+//
+//if (isNaN(input)) {
+//    window.console.log("Invalid ID size.");
+//} else {
+//    output = randomString(parseInt(input, 10));
+//    window.console.log("Result: " + output);
+//}
+
 
 //STEP 5
