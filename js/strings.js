@@ -40,6 +40,14 @@
 //window.alert(output);
 
 //STEP 7
+//var text = "The quick brown fox jumps over the lazy dog";
+//var word = window.prompt("Please enter a word").trim();
+//var n = text.indexOf(word);
+//if (n === -1) {
+//    window.alert("\"" + text + "\"\nUnable to find '" + word + "' in the text.");
+//} else {
+//    window.alert("\"" + text + "\"\nFound '" + word + "' at index " + n + ".");
+//}
 
 //STEP 8
 
