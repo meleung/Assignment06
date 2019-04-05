@@ -26,6 +26,8 @@
 //window.alert("You name is: ".concat(firstName).concat(" ").concat(lastName));
 
 //STEP 4
+//var text = "The quick brown fox jumps over the lazy dog";
+//window.alert("'fox' is at index " + text.indexOf("fox"));
 
 //STEP 5
 
