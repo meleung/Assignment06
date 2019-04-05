@@ -56,3 +56,4 @@
 //window.console.log("Today is " + days[today] + ". Yesterday was " + days[(today + 6) % 7] + ".");
 
 //STEP 5
+//window.console.log(new Date().toString().substr(0, 1));
