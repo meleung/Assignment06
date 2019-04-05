@@ -17,6 +17,12 @@
 //}
 
 //STEP 3
+//var n = window.prompt("Please enter a floating point decimal value.");
+//if (isNaN(n)) {
+//    window.console.log("Invalid number.");
+//} else {
+//    window.console.log(n + " rounds down to " + Math.floor(n));
+//}
 
 //STEP 4
 
