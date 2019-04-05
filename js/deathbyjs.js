@@ -67,3 +67,17 @@
 
 
 //STEP 5
+//function longestCountryName(input) {
+//    "use strict";
+//    var result = "";
+//    input.forEach(function (elem) {
+//        if (elem.length > result.length) {
+//            result = elem;
+//        }
+//    });
+//    return result;
+//}
+//var input, output;
+//input = ["Australia", "Germany", "United States of America"];
+//output = longestCountryName(input);
+//window.console.log(output);
