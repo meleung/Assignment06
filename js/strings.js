@@ -55,5 +55,7 @@
 //window.alert(new_string.toUpperCase());
 
 //STEP 9
+//var text = "            THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG          ";
+//window.alert(text.trim().toLowerCase());
 
 //STEP 10
