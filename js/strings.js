@@ -27,9 +27,11 @@
 
 //STEP 4
 //var text = "The quick brown fox jumps over the lazy dog";
-//window.alert("'fox' is at index " + text.indexOf("fox"));
+//window.alert("\"" + text + "\"\n'fox' is at index " + text.indexOf("fox"));
 
 //STEP 5
+//var text = "The quick brown fox jumps over the lazy fox";
+//window.alert("\"" + text + "\"\nThe last 'fox' is at index " + text.lastIndexOf("fox"));
 
 //STEP 6
 
