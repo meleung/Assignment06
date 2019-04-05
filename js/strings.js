@@ -20,6 +20,10 @@
 
 
 //STEP 3
+//var firstName, lastName;
+//firstName = window.prompt("Please enter your first name.");
+//lastName = window.prompt("Please enter you last name.");
+//window.alert("You name is: ".concat(firstName).concat(" ").concat(lastName));
 
 //STEP 4
 
