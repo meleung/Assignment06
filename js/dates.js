@@ -21,6 +21,17 @@
 //}
 
 //STEP 2
+//var inputDate, date, months, pattern;
+//months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
+//
+//inputDate = window.prompt("Please enter a date. (MM/DD/YYYY)").trim();
+//pattern = new RegExp("^(1[0-2]|0[1-9])/(3[01]|[12][0-9]|0[1-9])/[0-9]{4}$");
+//if (!pattern.test(inputDate)) {
+//    window.console.log(inputDate + " is not a valid date in the format (MM/DD/YYYY).");
+//} else {
+//    date = new Date(inputDate);
+//    window.console.log(inputDate + " is in the month of " + months[date.getMonth()]);
+//}
 
 //STEP 3
 
