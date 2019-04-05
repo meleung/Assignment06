@@ -39,3 +39,9 @@
 //window.console.log("The smallest number is " + inputParsed[0]);
 
 //STEP 5
+//var n = window.prompt("Please enter a number.");
+//if (isNaN(n)) {
+//    window.console.log("Invalid number.");
+//} else {
+//    window.console.log("The square root of " + n + " is " + Math.sqrt(n));
+//}
