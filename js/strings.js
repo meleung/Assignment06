@@ -50,6 +50,9 @@
 //}
 
 //STEP 8
+//var old_string = "The quick brown fox jumps over the lazy dog";
+//var new_string = old_string.substr(31, 12);
+//window.alert(new_string.toUpperCase());
 
 //STEP 9
 
