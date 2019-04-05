@@ -31,6 +31,16 @@
 //window.console.log("You entered: " + input + "\nResult: " + output);
 
 //STEP 3
+//function vowelCount(input) {
+//    "use strict";
+//    var result;
+//    result = input.match(/[aeiouAEIOU]/g);
+//    return result.length;
+//}
+//var input, output;
+//input = window.prompt("Enter a string");
+//output = vowelCount(input);
+//window.console.log("You entered: " + input + "\nResult: " + output);
 
 //STEP 4
 
