@@ -1,11 +1,11 @@
 /*eslint-env browser*/
 
 //STEP 1
-//var name = window.prompt("Please enter you name.").trim();
+//var name = window.prompt("Please enter your name.").trim();
 //window.alert("'" + name + "' has " + (name.replace(/(\W|\s)/g, "").length - 1) + " letters in it.");
 
 //STEP 2
-//var name = window.prompt("Please enter you name.").trim();
+//var name = window.prompt("Please enter your name.").trim();
 //// Only counting printable characters.
 //var nameParsed = name.replace(/(\W|\s)/g, "");
 //var n = parseInt(window.prompt("Please enter a number"), 10);
@@ -34,6 +34,10 @@
 //window.alert("\"" + text + "\"\nThe last 'fox' is at index " + text.lastIndexOf("fox"));
 
 //STEP 6
+//var text = "The quick brown fox jumped over the lazy dog";
+//var name = window.prompt("Please enter your name.").trim();
+//var output = text.replace("the lazy dog", name);
+//window.alert(output);
 
 //STEP 7
 
